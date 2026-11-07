@@ -1,0 +1,3 @@
+[submodule "external/kgeo"]
+	path = external/kgeo
+	url = https://github.com/achael/kgeo.git
